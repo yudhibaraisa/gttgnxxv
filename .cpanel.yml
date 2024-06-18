@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/gttgnxxv/public_html/
+    - export DEPLOYPATH=/home/gttgnxxv/repo.gttgnxxv.com/repositories/gttgnxxv
     - /bin/cp -R * $DEPLOYPATH
