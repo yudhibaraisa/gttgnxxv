@@ -1,0 +1,105 @@
+[{
+    "slug": "elfbelly",
+    "name": "Elfbelly Eatery Mansion",
+    "coords": [
+        -8.584434844066163, 116.10094508817406
+    ],
+    "description": "Pizza & Pasta, Aneka Nasi, Jajanan",
+    "delivery": {
+        "grab_food": "https://gofood.co.id/id/mataram/restaurant/elfbelly-eatery-mansion-airlangga-ec8afb2b-8bc4-485a-b35d-e4c75c7842ab"
+    },
+    "cover": "elfbelly"
+}, {
+    "slug": "dleyla",
+    "name": "Dleyla Resto & Coffee",
+    "coords": [
+        -8.579310602445283, 116.09404772874409
+    ],
+    "description": "Aneka Nasi, Ayam & Bebek, Timur Tengah",
+    "delivery": {
+        "grab_food": "https://gofood.co.id/mataram/restaurant/dleyla-resto-coffee-langko-60-244bcf53-3973-40ad-8ef0-577944372303"
+    },
+    "cover": "dleyla"
+},{
+    "slug": "tunas_eatery",
+    "name": "Tuna's Eatery (Ikan Tuna & Old Motorbikes)",
+    "coords": [
+        -8.580660879375154, 116.09593370331483
+    ],
+    "description": "Minuman, Aneka Nasi, Cepat Saji",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/mataram/restaurant/tuna-s-eatery-ikan-tuna-old-motorbikes-selaparang-1015bd59-4ac5-4a4f-93bb-1bd5fd96222f"
+    },
+    "cover": "tunas_eatery"
+},{
+    "slug": "asano",
+    "name": "RM. Padang Asano",
+    "coords": [
+        -8.584138248694073, 116.1013805423292
+    ],
+    "description": "Masakan Padang",
+    "cover": "asano"
+},{
+    "slug": "warung_jawa_2",
+    "name": "Warung Jawa 2",
+    "coords": [
+        -8.584709569787435, 116.09557594232919
+    ],
+    "description": "Aneka Nasi",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/mataram/restaurant/warung-jawa-mataram-e6e40b21-4def-4c98-be17-0abd16c603f9"
+    },
+    "cover": "warung_jawa_2"
+},{
+    "slug": "taliwang_murad",
+    "name": "Ayam Taliwang Murad Airlangga",
+    "coords": [
+        -8.583565082078845, 116.10159392985317
+    ],
+    "description": "Makanan Khas Lombok Ayam Taliwang",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/id/mataram/restaurant/taliwang-airlangga-selaparang-e3746bdb-d875-46e1-864d-754fa12526d6"
+    },
+    "cover": "taliwang_murad"
+},{
+    "slug": "crystal_crepes",
+    "name": "Crystal Crepes & Noodles",
+    "coords": [
+        -8.582794553702236, 116.10165630042232
+    ],
+    "description": "Sweets, Bakmie, Jajanan",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/id/mataram/restaurant/crystal-crepes-noodles-airlangga-5f4bab4a-ebe5-4503-a61d-752d19bc0162"
+    },
+    "cover": "crystal_crepes"
+},{
+    "slug": "nasi_kelor",
+    "name": "Warung Nasi Kelor Andini",
+    "coords": [
+        -8.58490071294133, 116.08758497116459
+    ],
+    "description": "Nasi Campur Khas Lombok",
+    "cover": "nasi_kelor"
+},{
+    "slug": "kfc_pejanggik",
+    "name": "KFC Pejanggik",
+    "coords": [
+        -8.581848338168005, 116.1054356883307
+    ],
+    "description": "Ayam Goreng KFC",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/id/mataram/restaurant/kfc-pejanggik-c3f1cdde-7338-4067-bea8-c2d0f35e11cd"
+    },
+    "cover": "kfc_pejanggik"
+},{
+    "slug": "pecel_seruni",
+    "name": "WR. Pecel Seruni - Ngantos Paice",
+    "coords": [
+        -8.584394754354376, 116.08720452314712
+    ],
+    "description": "Aneka Nasi",
+    "delivery":{
+        "grab_food": "https://gofood.co.id/id/mataram/restaurant/pecel-seruni-ngantos-paice-mataram-5955749b-9e24-448f-9506-0d396f903d84"
+    },
+    "cover": "pecel_seruni"
+}]

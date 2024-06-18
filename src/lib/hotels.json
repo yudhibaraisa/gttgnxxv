@@ -1,0 +1,203 @@
+[{
+    "slug": "fave_hotel",
+    "name": "Fave Hotel Mataram",
+    "type": "hotel",
+    "coords": [
+        -8.580317203078042, 116.09776946652264
+    ],
+    "google_maps": "https://maps.app.goo.gl/Lw7LvqjVAXAF6Y4x9",
+    "cover": "fave_hotel",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/favehotel-langko-mataram---lombok-1000000493668",
+        "tiket": "https://www.tiket.com/hotel/indonesia/favehotel-langko-mataram-lombok-108001534490322067"
+    }
+}, {
+    "slug": "puri_indah",
+    "name": "Hotel Puri Indah",
+    "type": "hotel",
+    "coords": [
+        -8.593017189921222, 116.11941420737858
+    ],
+    "google_maps": "https://maps.app.goo.gl/r68x8SDZ78pmYB4UA",
+    "cover": "puri_indah",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/hotel-puri-indah--convention-3000010006197",
+        "tiket": "https://www.tiket.com/hotel/indonesia/puri-indah-hotel-convention-108001534490349169",
+        "agoda": "https://www.agoda.com/id-id/puri-indah-hotel/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "grand_madani",
+    "name": "Hotel Grand Madani",
+    "type": "hotel",
+    "coords": [
+        -8.57514679792843, 116.10340008223875
+    ],
+    "google_maps": "https://maps.app.goo.gl/ioMyzP5qRDTTLdnv5",
+    "cover": "grand_madani",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/grand-madani-hotel-3000010017410",
+        "tiket": "https://www.tiket.com/hotel/indonesia/grand-madani-hotel-605001683699331614",
+        "agoda": "https://www.agoda.com/id-id/grand-madani-hotel/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "idoop",
+    "name": "Hotel Idoop",
+    "type": "hotel",
+    "coords": [
+        -8.586570225592341, 116.11794762272012
+    ],
+    "google_maps": "https://maps.app.goo.gl/8fM8b182XHWeeHaf9",
+    "cover": "idoop",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/idoop-hotel-by-prasanthi-1000000469457",
+        "tiket": "https://www.tiket.com/hotel/indonesia/idoop-hotel-by-prasanthi-510001665480321516",
+        "agoda": "https://www.agoda.com/id-id/idoop-hotel/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "jayakarta",
+    "name": "The Jayakarta Lombok Beach Resort & Spa",
+    "type": "hotel",
+    "coords": [
+        -8.529027910043077, 116.06775772512607
+    ],
+    "google_maps": "https://maps.app.goo.gl/cb648KfGvuiQga64A",
+    "cover": "jayakarta",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/the-jayakarta-lombok-beach-resort--spa-48701",
+        "tiket": "https://www.tiket.com/hotel/indonesia/the-jayakarta-lombok-beach-resort-spa-senggigi-412001639977204411",
+        "agoda": "https://www.agoda.com/id-id/the-jayakarta-lombok-beach-resort/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "lombok_astoria",
+    "name": "Lombok Astoria",
+    "type": "hotel",
+    "coords": [
+        -8.564456870802324, 116.12157658408651
+    ],
+    "google_maps": "https://maps.app.goo.gl/PiMRUGw7xtwdg85o9",
+    "cover": "lombok_astoria",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/lombok-astoria--3000010010309",
+        "tiket": "https://www.tiket.com/hotel/indonesia/lombok-astoria-formerly-golden-tulip-mataram-lombok-108001534490332766",
+        "agoda": "https://www.agoda.com/id-id/lombok-astoria/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "hotel_santika",
+    "name": "Hotel Santika",
+    "type": "hotel",
+    "coords": [
+        -8.582005186847248, 116.10804487854307
+    ],
+    "google_maps": "https://maps.app.goo.gl/4Mwweekq7pM15Anr9",
+    "cover": "hotel_santika",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/hotel-santika-mataram---lombok-334616",
+        "tiket": "https://www.tiket.com/hotel/indonesia/hotel-santika-mataram-lombok-412001639795957745",
+        "agoda": "https://www.agoda.com/id-id/hotel-santika-mataram/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "sunwood_hotel",
+    "name": "Sunwood Hotel Arianz Mataram",
+    "type": "hotel",
+    "coords": [
+        -8.584232761796068, 116.10734481163303
+    ],
+    "google_maps": "https://maps.app.goo.gl/fJ81fKJckYRALVCV7",
+    "cover": "sunwood_hotel",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/sunwood-arianz-hotel-by-bencoolen-3000020020688",
+        "tiket": "https://www.tiket.com/hotel/indonesia/sunwood-arianz-hotel-by-bencoolen-603001678676144794",
+        "agoda": "https://www.agoda.com/id-id/sunwood-arianz-hotel-managed-by-bencoolen/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "lombok_raya",
+    "name": "Hotel Lombok Raya",
+    "type": "hotel",
+    "coords": [
+        -8.589599353676883, 116.11900209018914
+    ],
+    "google_maps": "https://maps.app.goo.gl/b3Nusw5yzXiBCWcs8",
+    "cover": "lombok_raya",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/hotel-lombok-raya-2000000145634",
+        "tiket": "https://www.tiket.com/hotel/indonesia/hotel-lombok-raya-412001639988391333",
+        "agoda": "https://www.agoda.com/id-id/lombok-raya-hotel/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "lombok_garden",
+    "name": "Hotel Lombok Garden",
+    "type": "hotel",
+    "coords": [
+        -8.589910762399517, 116.11747734175759
+    ],
+    "google_maps": "https://maps.app.goo.gl/W3vWphm9JFihetwg7",
+    "cover": "lombok_garden",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/en-id/hotel/indonesia/hotel-lombok-garden-239481",
+        "tiket": "https://en.tiket.com/hotel/indonesia/lombok-garden-hotel-412001639390413593",
+        "agoda": "https://www.agoda.com/lombok-garden-hotel/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "prime_park",
+    "name": "Prime Park Hotel",
+    "type": "hotel",
+    "coords": [
+        -8.57635828508981, 116.10330279758038
+    ],
+    "google_maps": "https://maps.app.goo.gl/9d23EZ8q47wfyshZA",
+    "cover": "prime_park",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/prime-park-hotel--convention-lombok-9000000970736",
+        "tiket": "https://www.tiket.com/hotel/indonesia/prime-park-hotel-convention-lombok-412001639107975826",
+        "agoda": "https://www.agoda.com/id-id/prime-park-hotel-convention-lombok/hotel/lombok-id.html"
+    }
+}, {
+    "slug": "aston_inn",
+    "name": "Aston Inn Mataram",
+    "type": "hotel",
+    "coords": [
+        -8.588415964558797, 116.11874232818661
+    ],
+    "google_maps": "https://maps.app.goo.gl/7ZZFUZGxJsczWkCG9",
+    "cover": "aston_inn",
+    "icons": [
+        "wifi", "air-conditioner", "utensils", "parking", "time-twenty-four"
+    ],
+    "booking": {
+        "traveloka": "https://www.traveloka.com/id-id/hotel/indonesia/aston-inn-mataram-3000010016966",
+        "tiket": "https://www.tiket.com/hotel/indonesia/aston-inn-mataram-108001534490335182"
+    }
+}]

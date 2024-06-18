@@ -1,0 +1,13 @@
+[{
+    "name": "Grab",
+    "icon": "grab",
+    "description": "Pesan melalui aplikasi Grab."
+}, {
+    "name": "Maxim",
+    "icon": "maxim",
+    "description": "Pesan melalui aplikasi Maxim."
+}, {
+    "name": "Gojek",
+    "icon": "gojek",
+    "description": "Pesan melalui aplikasi Gojek."
+}]

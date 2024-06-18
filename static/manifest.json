@@ -1,0 +1,34 @@
+{
+    "id": "com.gttgnxxv",
+    "lang": "id",
+    "short_name": "GTTGN NTB 2024",
+    "name": "Gelar TTGN NTB Tahun 2024",
+    "description": "Aplikasi Penunjang Gelar TTGN Provinsi NTB Tahun 2024",
+    "start_url": "/",
+    "icons": [{
+        "src": "/logo-512.png",
+        "sizes": "512x512",
+        "type": "image/png"
+    }],
+    "background_color": "#ffffff",
+    "theme_color": "#fbcd0a",
+    "display": "standalone",
+    "orientation": "portrait",
+    "dir": "ltr",
+    "shortcuts": [{
+        "name": "Hotel di Kota Mataram",
+        "short_name": "Hotel",
+        "description": "Cari hotel di Kota Mataram",
+        "url": "/hotel"
+    }, {
+        "name": "Wisata di Kota Mataram",
+        "short_name": "Wisata",
+        "description": "Cari tempat wisata di Kota Mataram",
+        "url": "/destination"
+    }, {
+        "name": "Oleh-oleh Kota Mataram",
+        "short_name": "Oleh-oleh",
+        "description": "Cari oleh-oleh khas Kota Mataram",
+        "url": "/souvenir"
+    }]
+}
